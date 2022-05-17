@@ -1,7 +1,7 @@
 o//
 
 - proof '23
-- average frc kid (1868)
+- average frc kid (1868, 6418)
 
 :black_large_square::red_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square:
 :red_square::red_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::white_large_square:
