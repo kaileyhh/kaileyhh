@@ -9,6 +9,9 @@ o//
 :yellow_square::yellow_square::black_large_square::green_square::green_square::blue_square::blue_square::blue_square::orange_square::white_large_square:
 :yellow_square::yellow_square::green_square::green_square::black_large_square::black_large_square::black_large_square::blue_square::orange_square::white_large_square:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaileyhh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **kaileyhh/kaileyhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
