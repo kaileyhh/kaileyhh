@@ -1,5 +1,6 @@
 o//
 
+<!--
 I'm Kailey Hua (she/her), a student at Proof School (co2023) in San Francisco, California.
 
 (Public) FRC code repositories: [`frc2020`](https://github.com/team1868/frc2020), [`frc2022`](https://github.com/team1868/RapidReact1868), [`swerve`](https://github.com/team1868/swerve1868)
@@ -8,7 +9,7 @@ I worked on a project to produce a [computational model of a simplified mammalia
 
 All my research from Proof School's annual math bursts can be found in [`mathburst`](https://github.com/kaileyhh/mathburst)
 
-
+-->
 
 
 
