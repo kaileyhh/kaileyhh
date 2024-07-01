@@ -1,5 +1,7 @@
 o//
 
+work: [@kaileyhua](https://github.com/kaileyhua)
+
 <!--
 I'm Kailey Hua (she/her), a student at Proof School (co2023) in San Francisco, California.
 
